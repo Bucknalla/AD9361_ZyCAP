@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="zed_hw-bmmFile"/>
+	<item value="false" key="zed_hw-partial_bit"/>
+	<item value="Local" key="zed_hw-target"/>
+	<item value="Auto Detect" key="zed_hw-device"/>
+	<item value="system_top.bit" key="zed_hw-bitFile"/>
+	<item value="zed_hw" key="programfpga.hwplatform"/>
+</section>
